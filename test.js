@@ -56,7 +56,7 @@ test('day', t => {
 	t.is(friendlyTime(time), 'vor einem Tag');
 
 	const time2 = new Date(now + (1000 * 60 * 60 * 23));
-	t.is(friendlyTime(time2), 'in einem Tag);
+	t.is(friendlyTime(time2), 'in einem Tag');
 });
 
 test('days', t => {

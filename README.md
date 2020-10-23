@@ -5,7 +5,7 @@
 Prints human friendly timestamps (eg. just now, 5 minutes ago, 3 days from now) in German.
 
 # Original Version
-[GitHub(https://github.com/brams-dev/friendly-time)]
+[GitHub](https://github.com/brams-dev/friendly-time)
 
 ## Usage
 

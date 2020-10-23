@@ -1,6 +1,6 @@
 {
 	"name": "friendly-time-german",
-	"version": "1.1.2",
+	"version": "1.1.3",
 	"description": "Prints human friendly timestamps (eg. just now, 5 minutes ago, 3 days from now) in German Locale",
 	"main": "index.js",
 	"repository": "https://github.com/tobix99/friendly-time.git",

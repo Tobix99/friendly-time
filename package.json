@@ -1,10 +1,10 @@
 {
-	"name": "friendly-time",
-	"version": "1.1.1",
-	"description": "Prints human friendly timestamps (eg. just now, 5 minutes ago, 3 days from now)",
+	"name": "friendly-time-german",
+	"version": "1.1.2",
+	"description": "Prints human friendly timestamps (eg. just now, 5 minutes ago, 3 days from now) in German Locale",
 	"main": "index.js",
-	"repository": "https://github.com/bram-codes/friendly-time.git",
-	"author": "Bram <bram@bram.codes>",
+	"repository": "https://github.com/tobix99/friendly-time.git",
+	"author": "Bram <bram@bram.codes>, Tobias Heinze <tobias.heinze99@gmail.com>",
 	"license": "MIT",
 	"keywords": [
 		"time",

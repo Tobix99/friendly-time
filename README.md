@@ -1,15 +1,16 @@
-# friendly-time
-[![npm](https://img.shields.io/npm/v/friendly-time.svg)](https://www.npmjs.com/package/friendly-time)
-[![Travis](https://travis-ci.com/bram-codes/friendly-time.svg?branch=master)](https://travis-ci.com/bram-codes/friendly-time)
-[![Codecov](https://img.shields.io/codecov/c/github/bram-codes/friendly-time.svg)](https://codecov.io/gh/bram-codes/friendly-time)
+# friendly-time - German Version
+[![npm](https://img.shields.io/npm/v/friendly-time-german.svg)](https://www.npmjs.com/package/friendly-time-german)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbram-codes%2Ffriendly-time.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbram-codes%2Ffriendly-time?ref=badge_shield)
 
-Prints human friendly timestamps (eg. just now, 5 minutes ago, 3 days from now).
+Prints human friendly timestamps (eg. just now, 5 minutes ago, 3 days from now) in German.
+
+# Original Version
+[GitHub(https://github.com/brams-dev/friendly-time)]
 
 ## Usage
 
 ```javascript
-var friendlyTime = require('friendly-time');
+var friendlyTime = require('friendly-time-german');
 
 var now = new Date();
 var minutes = new Date(now - (1000 * 60 * 5));
